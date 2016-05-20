@@ -1,0 +1,16 @@
+/*
+This changes the defaults of a button by id. The id follows standard naming convention
+of portletname-type-name so that no two elements on a page will have the same id
+*/
+#exampledetails-btn-submit{
+  background-color: #b69b56;
+  color: #FFF;
+  margin-top: 10px;
+}
+
+/*
+This changes all of the values in the exampledetails-checkbox class
+*/
+.exampledetails-checkbox {
+  margin-left: .3em;
+}
